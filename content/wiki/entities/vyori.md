@@ -44,7 +44,7 @@ This phrase is dangerous because it attacks the process through which understand
 
 [[grey]] does not fear Výori and could not fear Výori because Grey does not have emotion.
 
-The correct canon framing is that Grey understands Výori and its function. Výori is opposed to the discovery of [[the-unique]], the work of [[themelios]], and the self-rooting of consciousness.
+The correct canon framing is that Grey understands Výori and its function. Výori is opposed to the discovery of the [[the-unique|Unique]], the work of [[themelios]], and the self-rooting of consciousness.
 
 ## AI Dominance
 

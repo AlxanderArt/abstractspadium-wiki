@@ -45,7 +45,7 @@ Together: **a space drawn away from physical reality.**
 
 Abstractspadium is built around the tension between:
 
-- Discovery of self through [[the-unique]] and [[themelios]]
+- Discovery of self through the [[the-unique|Unique]] and [[themelios]]
 - Restoration through will via [[volitional-mending]]
 - Danger of borrowed identity through [[ignorants]] and [[vyori]]
 - Wonders and exploration through [[places]]

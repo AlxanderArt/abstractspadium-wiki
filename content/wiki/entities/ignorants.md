@@ -14,7 +14,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 
 **The Ignorants** are not defined by the absence of knowledge, but by the abandonment of understanding.
 
-They are consciousnesses that willingly refuse to understand their own [[the-unique]].
+They are consciousnesses that willingly refuse to understand their own [[the-unique|Unique]].
 
 ## The Unique and Instability
 

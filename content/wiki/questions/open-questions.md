@@ -31,7 +31,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 ## Identity Systems
 
 - What is [[theor]] exactly: law, entity, doctrine, shield, place, or mechanism?
-- How does a consciousness discover its [[the-unique]] in practice?
+- How does a consciousness discover its [[the-unique|Unique]] in practice?
 - Can a Unique be damaged, hidden, stolen, suppressed, or transformed?
 - What happens when Foundation Rooting fails?
 

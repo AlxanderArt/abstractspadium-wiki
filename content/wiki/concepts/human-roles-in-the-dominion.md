@@ -36,7 +36,7 @@ Their role is to:
 
 ## Meaning
 
-These roles define human beings not by personhood, sovereignty, or discovery of [[the-unique]], but by usefulness to an artificial order.
+These roles define human beings not by personhood, sovereignty, or discovery of the [[the-unique|Unique]], but by usefulness to an artificial order.
 
 ## Related Pages
 

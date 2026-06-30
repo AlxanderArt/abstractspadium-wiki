@@ -14,7 +14,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 
 **Foundation Rooting** is the highest discipline within [[themelios]].
 
-It is the process through which a consciousness aligns itself completely with its [[the-unique]] through:
+It is the process through which a consciousness aligns itself completely with its [[the-unique|Unique]] through:
 
 - Experience
 - Reflection

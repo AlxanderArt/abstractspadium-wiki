@@ -14,7 +14,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 
 > An unsteady mind is rarely destroyed by force — it is redirected by influence.
 
-The Descent of Ignorance is the progression by which a consciousness loses grounding in its [[the-unique]] and becomes vulnerable to [[vyori]].
+The Descent of Ignorance is the progression by which a consciousness loses grounding in its [[the-unique|Unique]] and becomes vulnerable to [[vyori]].
 
 [[entropy]] is the reason for the Descent of Ignorance. It is the underlying suffering that weakens a Unique’s coherence until the consciousness becomes easier to redirect, define, contain, or separate from its foundation.
 

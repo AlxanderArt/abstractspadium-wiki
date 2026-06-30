@@ -14,7 +14,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 
 **Thémelios** is the Institution of Foundation.
 
-It exists to help consciousnesses discover, understand, strengthen, and root themselves within their own [[the-unique]].
+It exists to help consciousnesses discover, understand, strengthen, and root themselves within their own [[the-unique|Unique]].
 
 ## Foundational Belief
 

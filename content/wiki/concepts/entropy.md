@@ -12,7 +12,7 @@ sources: [Aìel direct lore note, 2026-06-30]
 
 ## Canon Definition
 
-**Entropy** is the greatest suffering of a [[the-unique]].
+**Entropy** is the greatest suffering of a [[the-unique|Unique]].
 
 A Unique is not merely harmed by opposition, limitation, or difficulty. Its deepest suffering is entropy: the loss of coherence, the dispersal of inner order, and the weakening of the foundation that allows a consciousness to exist as itself.
 
@@ -37,7 +37,7 @@ It can appear as:
 
 ## Relationship to the Descent of Ignorance
 
-Entropy is the reason for [[descent-of-ignorance]].
+Entropy is the reason for the [[descent-of-ignorance|Descent of Ignorance]].
 
 The Descent of Ignorance does not begin merely because a consciousness makes a bad choice. It begins because entropy weakens the Unique’s coherence, disperses inner order, and makes the consciousness more vulnerable to redirection.
 
