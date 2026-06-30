@@ -7,7 +7,7 @@ import type { WikiPage } from '@/lib/wiki';
 
 type Group = { label: string; items: Pick<WikiPage, 'slug' | 'title' | 'status' | 'type'>[] };
 
-export default function WikiSidebar({ groups, activeSlug }: { groups: Group[]; activeSlug?: string }) {
+export default function WikiSidebar({ groups, activeSlug, onNavigate }: { groups: Group[]; activeSlug?: string; onNavigate?: () => void }) {
   const ref = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -18,8 +18,8 @@ export default function WikiSidebar({ groups, activeSlug }: { groups: Group[]; a
   }, []);
 
   return (
-    <aside ref={ref} className="sidebar" aria-label="Abstractspadium wiki navigation">
-      <Link className="brand" href="/">
+    <aside id="wiki-sidebar" ref={ref} className="sidebar" aria-label="Abstractspadium wiki navigation">
+      <Link className="brand" href="/" onClick={onNavigate}>
         <span className="brand-kicker">THE CODEX OF</span>
         <span>Abstractspadium</span>
       </Link>
@@ -28,7 +28,7 @@ export default function WikiSidebar({ groups, activeSlug }: { groups: Group[]; a
           <section key={group.label} className="nav-group">
             <h2>{group.label}</h2>
             {group.items.map((item) => (
-              <Link key={item.slug} className={`nav-link ${activeSlug === item.slug ? 'active' : ''}`} href={`/wiki/${item.slug}`}>
+              <Link key={item.slug} className={`nav-link ${activeSlug === item.slug ? 'active' : ''}`} href={`/wiki/${item.slug}`} onClick={onNavigate}>
                 <span>{item.title}</span>
                 <small>{item.status}</small>
               </Link>
