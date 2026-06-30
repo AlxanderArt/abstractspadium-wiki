@@ -14,7 +14,7 @@ sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
 
 > An unsteady mind is rarely destroyed by force — it is redirected by influence.
 
-The Descent of Ignorance is the progression by which a consciousness loses grounding in its [[the-unique]] and becomes vulnerable to [[vyori]].
+The Descent of Ignorance is the progression by which a consciousness loses grounding in its [[the-unique]], suffers [[entropy]], and becomes vulnerable to [[vyori]].
 
 ## Stages
 
@@ -46,6 +46,7 @@ A consciousness becomes a target for Výori.
 
 - [[ignorants]]
 - [[the-unique]]
+- [[entropy]]
 - [[themelios]]
 - [[vyori]]
 - [[uss]]

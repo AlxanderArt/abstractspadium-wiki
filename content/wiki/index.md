@@ -1,7 +1,7 @@
 # Abstractspadium Wiki Index
 
 > Content catalog for the Abstractspadium lore/IP wiki.  
-> Last updated: 2026-06-30 | Total pages: 51
+> Last updated: 2026-06-30 | Total pages: 52
 
 ## Start Here
 
@@ -14,6 +14,7 @@
 - [[doctrine-of-abstract]] — That which exists before form, beneath form, and beyond form.
 - [[volitional-mending]] — Restoration to wholeness through will alone.
 - [[the-unique]] — The non-duplicable foundation of each consciousness.
+- [[entropy]] — A Unique’s greatest suffering: the loss of coherence and weakening of inner foundation.
 - [[foundation-rooting]] — Thémelios discipline of aligning with one’s Unique.
 - [[descent-of-ignorance]] — The stages by which consciousness becomes vulnerable to Výori.
 - [[voids]] — Neutral potential: what can become anything.

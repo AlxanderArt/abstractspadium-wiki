@@ -28,9 +28,16 @@ Two consciousnesses may possess identical abilities, yet their Uniques differ be
 
 To understand one’s Unique is to understand one’s foundation. To reject one’s Unique is to reject one’s foundation.
 
+## Greatest Suffering
+
+A Unique’s greatest suffering is [[entropy]].
+
+Entropy is the loss of coherence, the dispersal of inner order, and the weakening of the foundation that allows a consciousness to exist as itself.
+
 ## Related Pages
 
 - [[foundation-rooting]]
+- [[entropy]]
 - [[themelios]]
 - [[ignorants]]
 - [[descent-of-ignorance]]
