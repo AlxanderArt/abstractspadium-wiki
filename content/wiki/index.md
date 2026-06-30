@@ -16,7 +16,7 @@
 - [[the-unique]] — The non-duplicable foundation of each consciousness.
 - [[entropy]] — A Unique’s greatest suffering: the loss of coherence and weakening of inner foundation.
 - [[foundation-rooting]] — Thémelios discipline of aligning with one’s Unique.
-- [[descent-of-ignorance]] — The stages by which consciousness becomes vulnerable to Výori.
+- [[descent-of-ignorance]] — The stages by which entropy causes consciousness to lose grounding and become vulnerable to Výori.
 - [[voids]] — Neutral potential: what can become anything.
 - [[theor]] — Needs-review protective principle made by Grey.
 - [[mottoes]] — Canon mottos and declarations.
