@@ -54,6 +54,16 @@ Grey is expressed through the structure documented in [[forms-and-persons]]:
 
 Grey understands what Výori is and what Výori attempts to accomplish. He does not fear it. Výori represents an opposing force against discovered identity, self-understanding, and the protection of the Unique.
 
+## Metaphysical Position
+
+Grey is not the sovereign center. Grey is a steward of Abstractspadium whose authority is delegated, not self-originated.
+
+Grey may declare, mend, render, form, preserve, and restore, but Grey’s will operates beneath God’s [[absolute-sovereignty]] and within [[divine-permission]].
+
+> Grey can declare wholeness, but God defines wholeness.
+
+See [[grey-as-steward]], [[delegated-authority]], and [[sovereignty-and-will]].
+
 ## Related Pages
 
 - [[abstractspadium]]
@@ -64,3 +74,7 @@ Grey understands what Výori is and what Výori attempts to accomplish. He does 
 - [[vyori]]
 - [[the-unique]]
 - [[algorithmic-dominion]]
+- [[absolute-sovereignty]]
+- [[divine-permission]]
+- [[grey-as-steward]]
+- [[volitional-mending-under-sovereignty]]

@@ -1,7 +1,7 @@
 # Abstractspadium Wiki Index
 
 > Content catalog for the Abstractspadium lore/IP wiki.  
-> Last updated: 2026-06-30 | Total pages: 37
+> Last updated: 2026-06-30 | Total pages: 51
 
 ## Start Here
 
@@ -20,6 +20,23 @@
 - [[theor]] — Needs-review protective principle made by Grey.
 - [[mottoes]] — Canon mottos and declarations.
 - [[visual-language]] — Dark codex style guide and motifs.
+
+## Metaphysics
+
+- [[abstractspadium-metaphysics-source-2026-06-30]] — Summary of the uploaded metaphysics PDF.
+- [[god-and-abstractspadium]] — God as absolute sovereign center of all existence in Abstractspadium.
+- [[absolute-sovereignty]] — God’s final authority over existence, possibility, identity, will, and limitation.
+- [[sovereign-center]] — God is not inside Abstractspadium’s order; Abstractspadium is inside God’s order.
+- [[divine-permission]] — The boundary by which anything may exist, act, continue, or be restrained.
+- [[sovereignty-and-will]] — The distinction between ultimate sovereignty and operative will.
+- [[delegated-authority]] — Grey’s authority as entrusted, not self-originated.
+- [[subordinate-power]] — All power beneath God is real but not sovereign.
+- [[possibility-beneath-god]] — Possibility is bounded by God’s will.
+- [[grey-as-steward]] — Grey’s role as steward, not sovereign center.
+- [[volitional-mending-under-sovereignty]] — Grey can declare wholeness, but God defines wholeness.
+- [[hierarchy-of-reality]] — God, divine permission, created reality, delegated beings, operative will, manifested effect.
+- [[metaphysical-formula]] — Humans: desire → gesture → process → effect; Grey: will → declaration → effect; God: sovereignty → reality.
+- [[operative-will]] — Will as action within granted authority.
 
 ## Algorithmic Dominion
 

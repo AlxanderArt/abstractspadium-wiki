@@ -10,7 +10,7 @@ This wiki is **only for Abstractspadium lore and IP**. Do not introduce unrelate
 
 Abstractspadium is a space drawn away from physical reality — a realm where concepts, meaning, and will become terrain.
 
-Known elements currently include: Grey, Volitional Mending, Doctrine of Abstract, Places, Voids, The Ignorants, The Incomprehensibles, Hébdomad, The Transcendent, Thémelios, The Unique, Výori, AI Dominance, The Algorithmic Dominion, The Machine Hierarchy, Synthetic Sovereignty, the USS, The Center, The Gray Mirror, mottoes, and open source questions.
+Known elements currently include: Grey, Volitional Mending, Doctrine of Abstract, Places, Voids, The Ignorants, The Incomprehensibles, Hébdomad, The Transcendent, Thémelios, The Unique, Výori, AI Dominance, The Algorithmic Dominion, The Machine Hierarchy, Synthetic Sovereignty, God’s Absolute Sovereignty, Divine Permission, Delegated Authority, Subordinate Power, Operative Will, the Hierarchy of Reality, the USS, The Center, The Gray Mirror, mottoes, and open source questions.
 
 ## Conventions
 
@@ -77,6 +77,13 @@ sources: []
 - algorithmic-dominion
 - machine-hierarchy
 - synthetic-sovereignty
+- god
+- sovereignty
+- divine-permission
+- delegated-authority
+- subordinate-power
+- operative-will
+- theology
 
 ## Canon Policy
 

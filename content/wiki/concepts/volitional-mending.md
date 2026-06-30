@@ -40,8 +40,22 @@ Volitional Mending can apply across physical, mental, emotional, conceptual, rel
 
 **Authority precedes manifestation.**
 
+## Under Sovereignty
+
+Volitional Mending is not sovereign creation. It is not Grey replacing God. It is not ultimate divine authority.
+
+Volitional Mending is the authority of will to establish wholeness within the boundaries God permits.
+
+> Grey can declare wholeness, but God defines wholeness.
+
+The revised metaphysical statement is: Volitional Mending is the authority of will to declare wholeness such that reality itself conforms to that declaration. It neither heals nor repairs. It establishes the complete state as the governing truth, making restoration the immediate consequence of will rather than the result of process.
+
 ## Related Pages
 
 - [[grey]]
 - [[doctrine-of-abstract]]
 - [[abstractspadium]]
+- [[volitional-mending-under-sovereignty]]
+- [[absolute-sovereignty]]
+- [[divine-permission]]
+- [[sovereignty-and-will]]
