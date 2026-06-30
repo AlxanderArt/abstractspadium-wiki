@@ -5,7 +5,7 @@ updated: 2026-06-30
 type: entity
 status: working-canon
 tags: [grey, abstractspadium, canon, lore, entity, creator, doctrine-of-abstract]
-sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md]
+sources: [raw/notes/abstractspadium-clean-source-2026-06-30.md, Aìel direct lore correction 2026-06-30]
 ---
 
 # Grey
@@ -32,6 +32,12 @@ Grey is gesture-independent. Through [[volitional-mending]], he does not repair 
 
 Grey fully understands all consciousness. This matters because Abstractspadium treats self-understanding as powerful, protective, and dangerous. A consciousness is not meant to be fully understood, or it can become vulnerable to another’s will.
 
+## Emotional Condition
+
+Grey does not have emotion.
+
+Because Grey does not have emotion, Grey does **not** fear [[vyori]] and could not fear Výori. The correct canon framing is not fear. It is comprehension, awareness, opposition, and sovereign response.
+
 ## Forms and Aspects
 
 Grey is expressed through the structure documented in [[forms-and-persons]]:
@@ -44,9 +50,9 @@ Grey is expressed through the structure documented in [[forms-and-persons]]:
 - Little — the little version of him
 - Mending — the act of putting something in working order
 
-## Why Grey Fears Výori
+## Relationship to Výori
 
-Grey fears [[vyori]] because every consciousness begins with incomplete understanding. If Výori reaches a consciousness before understanding is cultivated, that consciousness may never discover [[the-unique]]. Instead, it may inherit an identity chosen for it.
+Grey understands what Výori is and what Výori attempts to accomplish. He does not fear it. Výori represents an opposing force against discovered identity, self-understanding, and the protection of the Unique.
 
 ## Related Pages
 
@@ -57,3 +63,4 @@ Grey fears [[vyori]] because every consciousness begins with incomplete understa
 - [[saint-grey]]
 - [[vyori]]
 - [[the-unique]]
+- [[algorithmic-dominion]]

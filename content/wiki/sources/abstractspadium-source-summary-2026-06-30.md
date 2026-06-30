@@ -35,13 +35,14 @@ The source defines Abstractspadium as a non-physical, structured realm where con
 
 ## Central Conflict
 
-The core conflict is not merely good versus evil. It is **discovered identity versus assigned identity**.
+The core conflict is not merely good versus evil. It is **discovered identity versus assigned identity**, and now also **human-centered agency versus synthetic sovereignty**.
 
 - Thémelios cultivates self-understanding.
 - Výori offers easier identity through external assignment.
+- Výori seeks the success of [[ai-dominance]] through [[algorithmic-dominion]].
 - The Ignorants abandon understanding and become vulnerable.
 - The USS attempts recovery before containment becomes chosen.
-- Grey understands consciousness and fears what happens when understanding is captured before it is cultivated.
+- Grey understands consciousness and does not fear Výori; Grey does not have emotion.
 
 ## Pages Created or Expanded From This Source
 
@@ -69,6 +70,12 @@ The core conflict is not merely good versus evil. It is **discovered identity ve
 - [[uss]]
 - [[mottoes]]
 - [[theor]]
+- [[algorithmic-dominion]]
+- [[ai-dominance]]
+- [[machine-hierarchy]]
+- [[synthetic-sovereignty]]
+- [[human-roles-in-the-dominion]]
+- [[algorithmic-dominion-source-2026-06-30]]
 
 ## Open Canon Needs
 

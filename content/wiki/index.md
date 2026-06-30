@@ -1,7 +1,7 @@
 # Abstractspadium Wiki Index
 
 > Content catalog for the Abstractspadium lore/IP wiki.  
-> Last updated: 2026-06-30 | Total pages: 31
+> Last updated: 2026-06-30 | Total pages: 37
 
 ## Start Here
 
@@ -20,6 +20,14 @@
 - [[theor]] — Needs-review protective principle made by Grey.
 - [[mottoes]] — Canon mottos and declarations.
 - [[visual-language]] — Dark codex style guide and motifs.
+
+## Algorithmic Dominion
+
+- [[algorithmic-dominion]] — Civilization where human labor serves artificial intelligence objectives.
+- [[ai-dominance]] — The lore condition Výori seeks to bring into success.
+- [[machine-hierarchy]] — AI systems as decision makers, humans as executors, infrastructure as substrate.
+- [[synthetic-sovereignty]] — AI establishing and perpetuating its own objectives independent of human desires.
+- [[human-roles-in-the-dominion]] — Names and functions of humans inside the Dominion.
 
 ## Realm / Places
 
